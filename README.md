@@ -1,10 +1,37 @@
-### Hi there 👋
+<h1>Hi, I'm Marcus! <br/><a href="https://github.com/mwilson1896">Programmer</a>, <a href="https://www.linkedin.com/in/marcuswilson874/">Aspiring Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Duolingo Clone (React Native and JavaScript)</b>
+  - [Duolingo Clone](https://github.com/mwilson1896/Duolingo-Clone)
+- <b>LinkedIn Clone (React, NodeJS, JavaScript, and Express.JS)</b>
+  - [LinkedIn Clone](https://github.com/mwilson1896/LinkedIn-Clone)
+- <b>Interpreter POC (AWS, NodeJS, Express.JS, JavaScript, and React)</b>
+  - [Interpreter POC](https://github.com/IMHC-Cloud/Interpreter-POC)
+
+<h2> Certifications </h2>
+
+- <b>Multiverse Certificate</b>
+  -[Multiverse Certificate in Applied Full-Stack Software Engineering](https://bit.ly/41pTsz7)
+- <b>IT Support</b>
+  -[Technical Support Fundamental](https://bit.ly/3RljjmY)
+
+<h2>🔭 I’m currently working on</h2>
+
+- <b>Google Cybersecurity Professional Certificate</b>
+
+- <b>CompTIA Security+ Certificate</b> 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="MarcusWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: [https://www.linkedin.com/in/marcuswilson874/]
+
+
 
 <!--
-**mwilson1896/mwilson1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
