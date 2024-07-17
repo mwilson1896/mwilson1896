@@ -19,10 +19,10 @@
   -[Technical Support Fundamental](https://bit.ly/3RljjmY)
 - <b>Mastercard Cybersecurity virtual experience program on Forage</b>
   -[Mastercard Cybersecurity virtual experience program on Forage](https://bit.ly/4dbCauU)
+- <b>Google Cybersecurity Professional Certificate</b>
+  -[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7BSJ4KTVXESH)
 
 <h2>🔭 I’m currently working on</h2>
-
-- <b>Google Cybersecurity Professional Certificate</b>
 
 - <b>CompTIA Security+ Certificate</b> 
 
